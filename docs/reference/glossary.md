@@ -28,7 +28,7 @@ title: Glossary
 
 <section id="android-sdk">
   <a href="#android-sdk">
-    <h3>Android SDK</h3>
+    <h3>Android SDK23</h3>
   </a>
   <p>
     The{' '}
